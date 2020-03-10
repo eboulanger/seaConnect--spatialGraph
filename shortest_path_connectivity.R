@@ -11,11 +11,6 @@ library(mapdata)
 library(Rfast)   # floyd algorithm
 library(fields)  # for colour ramps
 
-# library(dplyr)
-# library(reshape)
-# library(vegan)   # mantel tests
-# library(lattice) # for levelplots
-
 # load data
 # coordinates of 100 grid cells
 coord100 <- read.table("data/coord_mullus_100gridCells.txt")
