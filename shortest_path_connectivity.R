@@ -2,6 +2,9 @@
 ############  Stepping-Stone approach to larval connectivity  ##############.
 ############################################################################.
 
+############  Script by Emilie Boulanger and Marco Andrello  ###############.
+############  for (Ecography ref)                            ###############.
+
 # do ctrl + shift + F10 to restart R session
 
 # load libraries
