@@ -1,7 +1,7 @@
 Interactive R script and necessary data for the shortest-path analysis of the paper 
 "Spatial graphs highlight how multi-generational dispersal shapes landscape genetic patterns"
 by Emilie Boulanger, Marco Andrello, Alicia Dalongeville, David Mouillot and Stéphanie Manel. 
-(Ecography; doi:)
+(Ecography; [https://doi.org/10.1111/ecog.05024](https://doi.org/10.1111/ecog.05024))
 
 This scripts takes a propagule dispersal matrix and
 - produces spatial graphs of the propagule connectivity
